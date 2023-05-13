@@ -6,7 +6,7 @@
 
 ## Installation
 
-Clone this repository and move `/path/to/dir_colors/.dir_colors` to `~/.dir_colors`
+Clone this repository and move `/path/to/dir_colors/.dir_colors` to `~/.dir_colors`.
 
 ```
 git clone https://github.com/sakura-theme/dir_colors.git /path/to
